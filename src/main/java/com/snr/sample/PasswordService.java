@@ -7,6 +7,7 @@ import java.util.Base64.Encoder;
 public class PasswordService {
 	
 	int x = 10;
+	int y = 12;
 	
 	int z = 10;
 	
