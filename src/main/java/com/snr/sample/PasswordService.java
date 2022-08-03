@@ -10,7 +10,7 @@ public class PasswordService {
 	int y = 12;
 	
 	int z = 10;
-	
+	int xx = 100;
 	public static String encoded(String text) {
 		Encoder encoder = Base64.getEncoder();
 		return encoder.encodeToString(text.getBytes());
