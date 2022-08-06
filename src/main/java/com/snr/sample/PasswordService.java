@@ -9,6 +9,7 @@ public class PasswordService {
 	public static String encoded(String text) {
 		int i = 100;
 		int j = 100;
+		System.out.println("hello Nagaraju");
 		Encoder encoder = Base64.getEncoder();
 		return encoder.encodeToString(text.getBytes());
 	}
