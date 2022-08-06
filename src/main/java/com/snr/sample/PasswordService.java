@@ -10,6 +10,7 @@ public class PasswordService {
 		int i = 100;
 		int j = 100;
 		System.out.println("This Number value" + i);
+		System.out.println("This the value of the" + k);
 		Encoder encoder = Base64.getEncoder();
 		return encoder.encodeToString(text.getBytes());
 	}
