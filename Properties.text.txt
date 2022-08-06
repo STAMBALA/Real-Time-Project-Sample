@@ -1,6 +1,9 @@
 Name : Nagaraju
 URL : Jdbc:MySql//localhost-3306/
 Password : xxxxx
-
+name = nagaraju
+id = 102
+url = https.sample.
 name : nagaraju
 id : 102
+
